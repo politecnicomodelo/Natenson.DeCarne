@@ -2,7 +2,6 @@ from datetime import date
 from .Materia import Materia
 
 class Alumno(object):
-
     def __init__(self):
         self.ListaMaterias=[]
 
